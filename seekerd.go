@@ -1,3 +1,7 @@
+// Seeker Daemon - Used to find SudoSH log files and ship them to an audit host.
+// Copyright (c) 2014, Massachusetts Institute of Technology
+// Please see LICENSE.md for licensing information.
+
 package main
 
 import (
